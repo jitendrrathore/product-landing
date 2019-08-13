@@ -1,2 +1,2 @@
 # Product Landing Project
-## CSS+HTML
+## HTML+CSS
